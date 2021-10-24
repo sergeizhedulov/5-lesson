@@ -1,0 +1,12 @@
+h2 {
+    text-align: center;
+}
+
+.image_big {
+    display: block;
+    margin: 100px auto 0;
+}
+
+.image_big_likes {
+    text-align: center;
+}
